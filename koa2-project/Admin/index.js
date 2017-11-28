@@ -1,5 +1,4 @@
 const Login=require('./Router/Login');
-const index=require('./Router/index');
 const InitData=require('./Router/InitData');
 const UserInfo=require('./Router/UserInfo');
 
