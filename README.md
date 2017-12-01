@@ -36,7 +36,7 @@
    
 7. 在vue2-project里面调用命令行，输入npm run dev回车，控制台打印如下内容则成功：
 
-[5](http://a1.qpic.cn/psb?/V13ehxSE4a0zNA/Vx0MrW5d.8bovpNr3xco*0xbjgudQru*gblj1a0gvhM!/b/dPMAAAAAAAAA&bo=nALnAAAAAAARAE4!&rf=viewer_4)
+   [5](http://a1.qpic.cn/psb?/V13ehxSE4a0zNA/Vx0MrW5d.8bovpNr3xco*0xbjgudQru*gblj1a0gvhM!/b/dPMAAAAAAAAA&bo=nALnAAAAAAARAE4!&rf=viewer_4)
    
 8. 在浏览器访问 http://localhost:8080 会出现如下页面：
 
