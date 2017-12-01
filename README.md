@@ -27,14 +27,21 @@
    注意弹出的命令行窗口不要关闭，否则服务也跟着关闭；
    在koa2-project根文件夹调用命令行，输入npm start回车，如果控制台打印如下内容则成功：
    
-   [3](https://pic3.zhimg.com/50/v2-47b0c8dfd0100f6d1dee9301435884fe_hd.jpg)
+   [3](http://a1.qpic.cn/psb?/V13ehxSE4a0zNA/KJvC8xmCkTM9r.T8.EYWDmsfkEVQhz8okAsCdVs.J9A!/b/dPMAAAAAAAAA&bo=8gGHAAAAAAARAEM!&rf=viewer_4)
    
 6. 在浏览器访问 http://localhost:3000/initData/addAdmin ，
    如下则admin信息成功插入数据库：
-   [4](https://pic1.zhimg.com/50/v2-c21d5e64d7b02824fa7b6384b93ad020_hd.jpg)
+   
+   [4](http://m.qpic.cn/psb?/V13ehxSE4a0zNA/ENunfl1qKTo*cmGs5f7yYqvP39AYq0k9c*ShULNliAA!/b/dPMAAAAAAAAA&bo=wQFtAAAAAAARB50!&rf=viewer_4)
+   
 7. 在vue2-project里面调用命令行，输入npm run dev回车，控制台打印如下内容则成功：
-   [5](https://pic1.zhimg.com/50/v2-c21d5e64d7b02824fa7b6384b93ad020_hd.jpg)
+
+   [5](http://a1.qpic.cn/psb?/V13ehxSE4a0zNA/Vx0MrW5d.8bovpNr3xco*0xbjgudQru*gblj1a0gvhM!/b/dPMAAAAAAAAA&bo=nALnAAAAAAARAE4!&rf=viewer_4)
+   
 8. 在浏览器访问 http://localhost:8080 会出现如下页面：
-   [6](https://pic4.zhimg.com/50/v2-4e720afeb2240e6d222fedcd498eaa93_hd.jpg)
+
+   [6](http://a1.qpic.cn/psb?/V13ehxSE4a0zNA/6VAKElDfD2x4GjtciDGJJwBONz*tKlxidvvlSwWylyI!/b/dPMAAAAAAAAA&bo=3wSAAgAAAAARAG4!&rf=viewer_4)
+   
    点击登录，访问后台admin信息返回结果，若成功跳转则来到后台页面如下：
-   [7](https://pic3.zhimg.com/50/v2-fc162c3ffa92d40ba6cf3787aa4882f6_hd.jpg)
+   
+   [7](http://a3.qpic.cn/psb?/V13ehxSE4a0zNA/wDbtx75pvArUNwLuU2k6v6YRZPEcAcLqtXpQQ8F63eA!/b/dPIAAAAAAAAA&bo=egdzAgAAAAARADs!&rf=viewer_4)
