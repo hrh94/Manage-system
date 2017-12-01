@@ -15,8 +15,8 @@
 2. 安装MongoDB安装包，安装时候直接点击下一步、下一步即可
 3. MongoDB安装完成后，新建一个名为DB的文件夹（路径可以自己决定）作为仓库，新建一个runMongo.bat文件（路径可以自己决定）    
    runMongo.bat内容如下：
-   
-   <img height="150" src="http://119.29.149.113/manage-system/1.jpg">
+
+   <img height="150" src="http://119.29.149.113/manage-system/1.jpg">
    
 4. 在vue2-project里面调用命令行，输入npm install回车，等待依赖包安装完成；
    在koa2-project里面调用命令行，输入npm install回车，等待依赖包安装完成
