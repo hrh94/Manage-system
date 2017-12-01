@@ -36,7 +36,7 @@
    
 7. 在vue2-project里面调用命令行，输入npm run dev回车，控制台打印如下内容则成功：
    
-    <img width="700" src="http://119.29.149.113/manage-system/4.jpg">
+   <img width="700" src="http://119.29.149.113/manage-system/4.jpg">
    
 8. 在浏览器访问 http://localhost:8080 会出现如下页面：
 
