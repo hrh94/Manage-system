@@ -22,26 +22,26 @@
    在koa2-project里面调用命令行，输入npm install回车，等待依赖包安装完成
 5. 依赖安装完成后，双击runMongo.bat文件开启MongoDB服务，弹出窗口打印出如下内容则成功开启： 
 
-   [2](http://119.29.149.113/manage-system/2.jpg)
+   <img width="1000" src="http://119.29.149.113/manage-system/2.jpg">
    
    注意弹出的命令行窗口不要关闭，否则服务也跟着关闭；
    在koa2-project根文件夹调用命令行，输入npm start回车，如果控制台打印如下内容则成功：
    
-   [3](http://119.29.149.113/manage-system/3.jpg)
+   <img width="1000" src="http://119.29.149.113/manage-system/3.jpg">
    
 6. 在浏览器访问 http://localhost:3000/initData/addAdmin ，
    如下则admin信息成功插入数据库：
    
-   [4](http://119.29.149.113/manage-system/4.jpg)
+   <img width="1000" src="http://119.29.149.113/manage-system/4.jpg">
    
 7. 在vue2-project里面调用命令行，输入npm run dev回车，控制台打印如下内容则成功：
 
-   [5](http://119.29.149.113/manage-system/4.jpg)
+   <img width="1000" src="http://119.29.149.113/manage-system/4.jpg">
    
 8. 在浏览器访问 http://localhost:8080 会出现如下页面：
 
-   [6](http://119.29.149.113/manage-system/5.jpg)
+   <img width="1000" src="http://119.29.149.113/manage-system/5.jpg">
    
    点击登录，访问后台admin信息返回结果，若成功跳转则来到后台页面如下：
    
-   [7](http://119.29.149.113/manage-system/6.jpg)
+   <img width="1000" src="http://119.29.149.113/manage-system/6.jpg">
