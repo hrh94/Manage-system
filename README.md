@@ -34,9 +34,9 @@
    
    <img width="700" src="http://119.29.149.113/manage-system/4.jpg">
    
-8. 在vue2-project里面调用命令行，输入npm run dev回车，控制台打印如下内容则成功：
+7. 在vue2-project里面调用命令行，输入npm run dev回车，控制台打印如下内容则成功：
 
-   <img height="200" src="http://m.qpic.cn/psb?/V13ehxSE4a0zNA/ENunfl1qKTo*cmGs5f7yYqvP39AYq0k9c*ShULNliAA!/b/dPMAAAAAAAAA&bo=wQFtAAAAAAARB50!&rf=viewer_4">
+   <img width="300" src="http://m.qpic.cn/psb?/V13ehxSE4a0zNA/ENunfl1qKTo*cmGs5f7yYqvP39AYq0k9c*ShULNliAA!/b/dPMAAAAAAAAA&bo=wQFtAAAAAAARB50!&rf=viewer_4">
    
 8. 在浏览器访问 http://localhost:8080 会出现如下页面：
 
